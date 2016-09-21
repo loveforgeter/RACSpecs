@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.source = {
     :git => 'https://github.com/ReactiveCocoa/ReactiveSwift.git',
-    :branch => 'master'
+    :commit => '1dc7eb74f7c807fe0c85c9cd2130acedbc5f1765'
   }
 
   s.ios.deployment_target = '8.0'
