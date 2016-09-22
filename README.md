@@ -10,7 +10,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'App' do
   use_frameworks!
 
-  pod 'ReactiveCocoa', '5.0.0-alpha.1'
+  pod 'ReactiveCocoa'
 
   target 'AppTests' do
     inherit! :search_paths
