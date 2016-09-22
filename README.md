@@ -1,7 +1,5 @@
 # Usage
 
-Just working for swift.
-
 ```
 #  Podfile
 
