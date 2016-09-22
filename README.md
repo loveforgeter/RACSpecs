@@ -1,6 +1,6 @@
 # Usage
 
-Just workingfor swift.
+Just working for swift.
 
 ```
 #  Podfile
