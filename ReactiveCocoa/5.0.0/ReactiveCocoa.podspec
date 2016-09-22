@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ReactiveCocoa'
-  s.version = '5.0.0-alpha.1'
+  s.version = '5.0.0'
 
   s.summary = 'A framework for using ReactiveSwift with Apple\'s Cocoa frameworks.'
   s.description = 'ReactiveCocoa (RAC) is a Cocoa framework built on top of ReactiveSwift. It provides APIs for using ReactiveSwift with Apple\'s Cocoa frameworks.'
